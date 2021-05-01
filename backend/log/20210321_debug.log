@@ -1,0 +1,1126 @@
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[31merror[39m: Error: Incorrect email or password
+    at Object.loginUserWithEmailAndPassword (G:\5. Project\Nodejs\d5\MERN_practice\backend\services\auth.service.js:11:11)
+    at async G:\5. Project\Nodejs\d5\MERN_practice\backend\controllers\auth.controller.js:15:16
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:635:15
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:635:15
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[31merror[39m: Error: Please authenticate
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:8:19
+    at allFailed (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:107:18)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:180:28)
+    at JwtStrategy.strategy.fail (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:302:9)
+    at JwtStrategy.authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport-jwt\lib\strategy.js:96:21)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:366:16)
+    at authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:367:7)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:25:107
+    at new Promise (<anonymous>)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:24:10
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+[31merror[39m: Error: Please authenticate
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:8:19
+    at allFailed (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:107:18)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:180:28)
+    at JwtStrategy.strategy.fail (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:302:9)
+    at JwtStrategy.authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport-jwt\lib\strategy.js:96:21)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:366:16)
+    at authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:367:7)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:25:107
+    at new Promise (<anonymous>)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:24:10
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+[31merror[39m: Error: Please authenticate
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:8:19
+    at allFailed (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:107:18)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:180:28)
+    at JwtStrategy.strategy.fail (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:302:9)
+    at JwtStrategy.authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport-jwt\lib\strategy.js:96:21)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:366:16)
+    at authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:367:7)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:25:107
+    at new Promise (<anonymous>)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:24:10
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: Error: Please authenticate
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:8:19
+    at allFailed (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:107:18)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:180:28)
+    at JwtStrategy.strategy.fail (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:302:9)
+    at JwtStrategy.authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport-jwt\lib\strategy.js:96:21)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:366:16)
+    at authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:367:7)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:25:107
+    at new Promise (<anonymous>)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:24:10
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: Error: Please authenticate
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:8:19
+    at allFailed (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:107:18)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:180:28)
+    at JwtStrategy.strategy.fail (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:302:9)
+    at JwtStrategy.authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport-jwt\lib\strategy.js:96:21)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:366:16)
+    at authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:367:7)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:25:107
+    at new Promise (<anonymous>)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:24:10
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[31merror[39m: Error: Please authenticate
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:8:19
+    at allFailed (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:107:18)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:180:28)
+    at JwtStrategy.strategy.fail (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:302:9)
+    at JwtStrategy.authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport-jwt\lib\strategy.js:96:21)
+    at attempt (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:366:16)
+    at authenticate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\authenticate.js:367:7)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:25:107
+    at new Promise (<anonymous>)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\middlewares\auth.js:24:10
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB

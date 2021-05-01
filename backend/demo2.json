@@ -1,0 +1,41 @@
+{
+  "name": "excel_export_functionality_testcases",
+  "testcases": [
+  {
+    "testcase": "File should get exported in proper file extension"
+  },
+  {
+    "testcase": "File name for the exported Excel file should be as per the standards e.g. if file name is using timestamp, it should get replaced properly with actual timestamp at the time of exporting the file"
+  },
+  {
+    "testcase": "Check for date format if exported Excel file contains date columns"
+  },
+  {
+    "testcase": "Check number formatting for numeric or currency values. Formatting should be same as shown on page"
+  },
+  {
+    "testcase": "Exported file should have columns with proper column names"
+  },
+  {
+    "testcase": "Default page sorting should be carried in exported file as well"
+  },
+  {
+    "testcase": "Excel file data should be formatted properly with header and footer text, date, page numbers etc. values for all pages"
+  },
+  {
+    "testcase": "Check if data displayed on page and exported Excel file is same"
+  },
+  {
+    "testcase": "Check export functionality when pagination is enabled"
+  },
+  {
+    "testcase": "Check if export button is showing proper icon according to exported file type e.g. Excel file icon for xls files"
+  },
+  {
+    "testcase": "Check export functionality for files with very large size"
+  },
+  {
+    "testcase": "Check export functionality for pages containing special characters. Check if these special characters are exported properly in Excel file"
+  }
+  ]
+}

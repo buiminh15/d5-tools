@@ -1,0 +1,54 @@
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at Immediate.next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at Immediate._onImmediate (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:635:15)
+    at processImmediate (internal/timers.js:441:21)
+    at process.topLevelDomainCallback (domain.js:131:23)

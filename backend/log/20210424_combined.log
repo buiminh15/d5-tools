@@ -1,0 +1,128 @@
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[31merror[39m: Error: ENOENT: no such file or directory, stat 'D:\2. Fun\7. NodeJs\MERN_practice\backend\services\D:\2. Fun\7. NodeJs\MERN_practice\backend\templates\ToolAdmin.xlsm'
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at D:\2. Fun\7. NodeJs\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xPermittedCrossDomainPoliciesMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xContentTypeOptionsMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xDownloadOptionsMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at strictTransportSecurityMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\strict-transport-security\index.js:34:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xPoweredByMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-powered-by\index.js:6:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xFrameOptionsMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-frame-options\index.js:21:3)
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[31merror[39m: Error: ENOENT: no such file or directory, stat 'D:\2. Fun\7. NodeJs\MERN_practice\backend\services\D:\2. Fun\7. NodeJs\MERN_practice\backend\templates\1.txt'
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at D:\2. Fun\7. NodeJs\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xPermittedCrossDomainPoliciesMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xContentTypeOptionsMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xDownloadOptionsMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at strictTransportSecurityMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\strict-transport-security\index.js:34:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xPoweredByMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-powered-by\index.js:6:3)
+    at internalNext (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xFrameOptionsMiddleware (D:\2. Fun\7. NodeJs\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-frame-options\index.js:21:3)
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000

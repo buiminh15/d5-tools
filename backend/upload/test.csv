@@ -1,0 +1,33 @@
+"Verify that cursor is focused on the ""Username"" text box on 
+the page load (login page)"
+"Verify that the login screen contains elements such as Username, 
+Password, Sign in button, Remember password check box, Forgot 
+password link, and create an account link."
+"Verify that tab functionality is working properly or not"
+"Verify that Enter/Tab key works as a substitute for the Sign-in 
+button"
+"Verify that all the fields such as Username, Password has a 
+valid placeholder"
+"Verify whether all the text boxes have a minimum and maximum 
+length."
+"Verify that the labels float upward when the text field is in 
+focus or filled (In case of the floating label)"
+"Verify that the User is able to Login with Valid Credentials"
+"Verify that the User is not able to Login with a Valid Username 
+and invalid Password"
+"Verify that the User is not able to log in with an invalid 
+Username and Valid Password"
+"Verify that the User is not able to Login with an invalid 
+Username and invalid Password"
+"Verify that the User is not able to log in with a blank Username 
+or Password"
+"Verify that the reset button clears the data from all the text 
+boxes in the login form"
+"Verify that the User is not able to Login with inactive 
+credentials"
+"Verify that the login credentials, mainly password stores in a 
+database in an encrypted format"
+"Verify that clicking on the browser back button after successful 
+login should not take the User to log out mode"
+"Verify that clicking on the browser back button after successful 
+logout should not take the User to a logged-in mode"

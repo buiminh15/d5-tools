@@ -1,0 +1,142 @@
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:635:15
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:260:14)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:635:15
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xPermittedCrossDomainPoliciesMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xContentTypeOptionsMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xDownloadOptionsMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at strictTransportSecurityMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\strict-transport-security\index.js:34:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xPoweredByMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-powered-by\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xFrameOptionsMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-frame-options\index.js:21:3)
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:635:15
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:260:14)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:635:15
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+[31merror[39m: ReferenceError: httpStatus is not defined
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\app.js:39:21
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at initialize (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\passport\lib\middleware\initialize.js:53:5)
+    at Layer.handle [as handle_request] (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:317:13)
+    at G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\express\lib\router\index.js:275:10)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:86:6)
+    at xXssProtectionMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-xss-protection\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at referrerPolicyMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\referrer-policy\index.js:24:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xPermittedCrossDomainPoliciesMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-permitted-cross-domain-policies\index.js:15:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xContentTypeOptionsMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-content-type-options\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xDownloadOptionsMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-download-options\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at strictTransportSecurityMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\strict-transport-security\index.js:34:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xPoweredByMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-powered-by\index.js:6:3)
+    at internalNext (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\index.js:89:6)
+    at xFrameOptionsMiddleware (G:\5. Project\Nodejs\d5\MERN_practice\backend\node_modules\helmet\dist\middlewares\x-frame-options\index.js:21:3)
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 4000
