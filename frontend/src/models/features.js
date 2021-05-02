@@ -54,18 +54,12 @@ export const features = [{
     component: PairwiseGenerator
 },
 {
-    title: "GUID generator",
-    subTitle: "Generate and validate GUIDs",
-    description: "You can generate a random GUID Online using our GUID generator. " +
-        "Usually, GUID is needed to identify rows in your DB (database), entity, or a serial number, etc. " +
-        "For many of us, the GUID number is just a simple random 128-bit quantity of numbers that are normally printed out in a particular format. " +
-        "But there are, actually, a few different types of GUIDs, and each of them is following a specific structure as described in RFC 4122. " +
-        "Using our generator you can save your time without googling any extra identifiers, " +
-        "and generate fake guid here in several seconds! Please, feel free to test and validate a GUID. We have tried to " +
-        "make a very flexible generator, so you could use it in most spread cases with testing where are GUIDs needed.",
+    title: "Email generator",
+    subTitle: "Generate fake email to verify OTP, etc...",
+    description: "Click link below",
     icon: ["fas", "dice-four"],
-    path: "/guid-generator/",
-    name: "guid-generator",
+    path: "/email-generator/",
+    name: "email-generator",
     meta: {
         layout: "main",
         title: "Generate a Random GUID Online",

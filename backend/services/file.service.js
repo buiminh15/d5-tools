@@ -22,7 +22,7 @@ import httpStatus from 'http-status';
 const filePath = path.join(__dirname, '..', 'templates', 'test.xlsx')
 const fileTransPath = path.join(__dirname, '..', 'templates', 'dich.xlsx')
 const fileToolAdminPath = path.join(__dirname, '..', 'templates', 'ToolAdmin.xlsm')
-const fileToolAdminPath1 = path.join(__dirname, '..', 'templates', '1.txt')
+const fileToolAdminPath1 = path.join(__dirname, '..', 'templates', 'RedmineTools.xlsm')
 // const fileCsvPath = path.join(__dirname, '..', 'upload', 'test.csv')
 
 const rangeTrans = { s: { c: 1, r: 1 }, e: { c: 75, r: 100 } }
@@ -121,10 +121,15 @@ const sendToolExcelFileFunc = (req, res) => {
     res.download(fileToolAdminPath);
 }
 
+const sendToolRedmineFileFunc = (req, res) => {
+    res.download(fileToolAdminPath1);
+}
+
 export {
     genTextFile,
     genExcelFile,
     genExcelTestcaseFile,
     generateExcelTranslatorFile,
-    sendToolExcelFileFunc
+    sendToolExcelFileFunc,
+    sendToolRedmineFileFunc
 }

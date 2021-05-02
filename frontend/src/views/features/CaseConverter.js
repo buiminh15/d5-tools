@@ -88,56 +88,56 @@ export default function CaseConverter() {
           <form className="form-bg">
             <div className="d-flex justify-content-between">
               <button
-                className="btn btn-outline-primary"
+                className="btn-sm btn btn-outline-primary"
                 type="button"
                 onClick={() => sentenceCase()}
               >
                 Sentence case
               </button>
               <button
-                className="btn btn-outline-primary"
+                className="btn btn-sm btn-outline-primary"
                 type="button"
                 onClick={() => capitalizeCase()}
               >
                 Capitalize Case
               </button>
               <button
-                className="btn btn-outline-primary"
+                className="btn btn-sm btn-outline-primary"
                 type="button"
                 onClick={() => upperCase()}
               >
                 UPPER CASE
               </button>
               <button
-                className="btn btn-outline-primary"
+                className="btn btn-sm btn-outline-primary"
                 type="button"
                 onClick={() => lowerCase()}
               >
                 lower case
               </button>
               <button
-                className="btn btn-outline-primary"
+                className="btn btn-sm btn-outline-primary"
                 type="button"
                 onClick={() => camelCase()}
               >
                 camelCase
               </button>
               <button
-                className="btn btn-outline-primary"
+                className="btn btn-sm btn-outline-primary"
                 type="button"
                 onClick={() => snakeCase()}
               >
                 snake_case
               </button>
               <button
-                className="btn btn-outline-primary"
+                className="btn btn-sm btn-outline-primary"
                 type="button"
                 onClick={() => kebabCase()}
               >
                 kebab-case
               </button>
               <button
-                className="btn btn-outline-primary"
+                className="btn btn-sm btn-outline-primary"
                 type="button"
                 onClick={() => inverseCase()}
               >
@@ -159,9 +159,6 @@ export default function CaseConverter() {
               deleteTexts={deleteTexts}
             />
           </form>
-          <div className="my-5">
-            <p className="s-description">{feature.description}</p>
-          </div>
         </div>
       </div>
     </>

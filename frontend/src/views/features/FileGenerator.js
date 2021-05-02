@@ -286,9 +286,6 @@ export default function FileGenerator() {
               </div>
             </div>
           </form>
-          <div className="my-5">
-            <p className="s-description">{feature.description}</p>
-          </div>
         </div>
       </div>
     </>

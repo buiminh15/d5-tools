@@ -8,8 +8,6 @@ import ContentTabComponent from './ContentTabComponent'
 export default function TabComponent(props) {
     const selectListArr = [
         { category: 'tester', selectedItem: 'Data generator', list: features },
-        // { category: 'dev', selectedItem: 'Apple1', list: ['Apple1', 'Orange', 'Mango'] },
-        // { category: 'pm', selectedItem: 'Apple2', list: ['Apple2', 'Orange', 'Mango'] },
         { category: 'comtor', selectedItem: 'File translator', list: featuresComtor },
         { category: 'excel', selectedItem: 'Tool Admin', list: featuresExcel },
     ]

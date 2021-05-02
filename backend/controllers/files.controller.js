@@ -3,7 +3,8 @@ import {
     genExcelTestcaseFile,
     genTextFile,
     generateExcelTranslatorFile,
-    sendToolExcelFileFunc
+    sendToolExcelFileFunc,
+    sendToolRedmineFileFunc
 } from '../services/file.service';
 
 const generateTextFile = (req, res, next) => {
@@ -26,11 +27,15 @@ const generateTranslatorFile = (req, res, next) => {
 const sendToolAdminFile = (req, res, next) => {
     sendToolExcelFileFunc(req, res);
 }
+const sendToolRedmineFile = (req, res, next) => {
+    sendToolRedmineFileFunc(req, res);
+}
 
 export default {
     generateTextFile,
     generateExcelFile,
     generateTestcaseFile,
     generateTranslatorFile,
-    sendToolAdminFile
+    sendToolAdminFile,
+    sendToolRedmineFile,
 }

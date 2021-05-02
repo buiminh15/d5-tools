@@ -4,7 +4,6 @@ import WebTestcase from '../models/webtest.model';
 import ApiError from '../utils/ApiError';
 
 const getTestcasesByField = async (name) => {
-  console.log('getTestcasesByField ', name)
   return await WebTestcase.find({ name }, (err, testcases) => {
     if (err) throw new ApiError(httpStatus.NOT_FOUND, 'Not found any testcase')
   }).select('-createdAt -updatedAt -__v');
